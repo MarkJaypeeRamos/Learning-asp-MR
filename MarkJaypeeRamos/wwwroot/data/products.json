@@ -1,0 +1,79 @@
+[
+  {
+    "Id": "jenlooper-president",
+    "Maker": "@jenlooper",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/66655239_321630135256072_3934403413479824783_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=104\u0026oh=f25832bf03897cec04d083ea9f861507\u0026oe=5E762F0F",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "THE PRESIDENT",
+    "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
+    "Ratings": [
+      0
+    ]
+  },
+  {
+    "Id": "jenlooper-light",
+    "Maker": "jenlooper",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/66617762_167423990968231_4896541710891191087_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=107\u0026oh=d15e504ca6c78d3b5047837aa553a931\u0026oe=5E7A8365",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "FOR BUDGET AND FINANCE",
+    "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+    "Ratings": [
+      0,
+      6
+    ]
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "Maker": "@jenlooper",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/66467195_448159595768126_2839823949285468543_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=102\u0026oh=9b6676e4ed4eeb7c38b3b6196851f53c\u0026oe=5E849BE4",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "SECOND YEAR REPRESENTATIVE",
+    "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
+    "Ratings": null
+  },
+  {
+    "Id": "jenlooper-survival",
+    "Maker": "jenlooper",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/67190742_131507854786807_8412021381629926258_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=107\u0026oh=608e897834e9bf9fa1be28ad6b882ee8\u0026oe=5E7BFFCD",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "THE INTERNAL AND EXTERNAL",
+    "Description": "Use an Altoids tin with Chibitronics sticker LEDs to create a light-up compact that doubles as a survival kit for the young hipster",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-bubblesortpic",
+    "Maker": "sailorhg",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/67586383_366109224056158_1253245102248773490_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=110\u0026oh=f298e27ceb7db2602de738eb230fcf29\u0026oe=5E7570F6",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "AUDITOR",
+    "Description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet\u0027s distance from the sun",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Maker": "sailorhg",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/67560559_284255439106307_4477887595693793467_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=111\u0026oh=1b32405ad4ab618cc313edec2eb28163\u0026oe=5E88C17D",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "FIRST YEAR REPRESENTATIVE",
+    "Description": "Light-up corsage I made with my summer intern.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Maker": "sailorhg",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/66989837_357539005136347_1625831568201884051_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=107\u0026oh=e37129d1d5a6239dad9ab6cb7c4c7ac6\u0026oe=5E6E07BA",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "FOR DOCUMENTATION",
+    "Description": "Light-up corsage I made with my summer intern.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Maker": "sailorhg",
+    "img": "https://instagram.fmnl7-1.fna.fbcdn.net/v/t51.2885-15/e35/66604474_555257781935965_3791288514871238895_n.jpg?_nc_ht=instagram.fmnl7-1.fna.fbcdn.net\u0026_nc_cat=101\u0026oh=f7f684914b824417b79e20d7d7d26878\u0026oe=5E6DE174",
+    "Url": "https://www.instagram.com/ibits_pupbc/",
+    "Title": "BUSINESS MANAGER",
+    "Description": "Light-up corsage I made with my summer intern.",
+    "Ratings": null
+  }
+]
